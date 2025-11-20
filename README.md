@@ -1,5 +1,7 @@
 # 6-DOF-Robotic-Arm
 Class project for Kinematics and Control of Robotic Systems
+
+
 Created by: William Roche, Benjamin Sedmont, Alexander Streck
 
 <p align="center">
