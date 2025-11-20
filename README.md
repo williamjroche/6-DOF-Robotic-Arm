@@ -3,7 +3,7 @@ Class project for Kinematics and Control of Robotic Systems
 Created by: William Roche, Benjamin Sedmont, Alexander Streck
 
 <p align="center">
-  <img width="270" height="480" alt="image" src="https://github.com/user-attachments/assets/b383563d-75ea-4622-b632-ca1a25fd5517" />
+  <img width="360" height="640" alt="image" src="https://github.com/user-attachments/assets/b383563d-75ea-4622-b632-ca1a25fd5517" />
 </p>
 
 Robot:
