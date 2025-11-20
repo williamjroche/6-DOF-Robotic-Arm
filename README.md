@@ -9,4 +9,4 @@ Robot:
 - A report on how the robot works, the materials, and references used
 
 Demo Video:
-[placeholder]
+https://youtube.com/shorts/FU3pKQ7Fjlg?feature=share
