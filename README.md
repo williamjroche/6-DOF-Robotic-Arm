@@ -12,6 +12,7 @@ Created by: William Roche, Benjamin Sedmont, Alexander Streck
 - Inverse Kinematic Solver used to find joint angles needed to pick and place robot
   - Uses miniconda python environment running robotics tool box by Peter Corke
 - Arduino file used to send joint angle commmands to the robot
+    - Implements speed control using for loops
 - A report on how the robot works, the materials, and references used
 
 ## Demo Videos:
